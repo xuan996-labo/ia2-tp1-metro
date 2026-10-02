@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+donnees/
+TP1_Enonce.pdf
+LISEZ-MOI.txt
+
+LISEZ-MOI.txt
+TP1_Enonce.pdf
